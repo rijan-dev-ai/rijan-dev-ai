@@ -1,9 +1,7 @@
-# Hi, I'm Zach :wave:
+# Hi, I'm Rijan :wave:
 
-Multidisciplinary builder, pixel-perfectionista. The Web is an amazing platform.
+Exploring code, building projects, and sharing solutions.
 Always learning. 🤟🏻
-
-[![A photorealistic, cinematic, wide-angle computer rendering of a woman standing in a large indoor modern museum space staring at a giant LED screen displaying colorful smoke.](img/banner.webp)](https://zachnguyen.com)
 
 ## 🌈 Skills
 
