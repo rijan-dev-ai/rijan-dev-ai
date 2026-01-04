@@ -9,6 +9,7 @@ Always learning. 🤟🏻
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
@@ -35,9 +36,9 @@ Always learning. 🤟🏻
 ![re](https://img.shields.io/badge/re-FF6600?logo=python&logoColor=white&style=for-the-badge)
 
 ### 📊 Mathematics & Statistics
-![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?logo=python&logoColor=white&style=for-the-badge)
-![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-306998?logo=python&logoColor=white&style=for-the-badge)
-![Calculus](https://img.shields.io/badge/Calculus-F58025?logo=python&logoColor=white&style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge)
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-306998?style=for-the-badge)
+![Calculus](https://img.shields.io/badge/Calculus-F58025?style=for-the-badge)
 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
