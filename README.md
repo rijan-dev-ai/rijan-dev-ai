@@ -28,10 +28,10 @@ Always learning. 🤟🏻
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logoColor=white&style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white&style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
-![NLTK](https://img.shields.io/badge/NLTK-FF6600?logoColor=white&style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-FF6600?logo=python&logoColor=white&style=for-the-badge)
 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
@@ -43,14 +43,13 @@ Always learning. 🤟🏻
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
 ### 🎨 Graphics & Simulation
-![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white&style=for-the-badge)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge)
 
 ### 🛠 Embedded Systems & Electronics
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?logo=raspberrypi&logoColor=white&style=for-the-badge)
+![PCB Design](https://img.shields.io/badge/PCB--Design-FF6F61?logo=microchip&logoColor=white&style=for-the-badge)
 - PCB design, breadboarding, and electronic components
 
 ---
@@ -60,6 +59,3 @@ Always learning. 🤟🏻
 - Passionate about: **Machine Learning & Artificial Intelligence** 🤖  
 - Aspiring to contribute towards achieving **Artificial General Intelligence (AGI)** 🌌  
 - Always exploring **new technologies and interests** 🌟
-
-
->
