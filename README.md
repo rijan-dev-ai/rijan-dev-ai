@@ -17,11 +17,6 @@ Always learning. 🤟🏻
 ### Graphics
 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge)
-![GLSL](https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
-![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge)
-![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
-![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?logo=webgpu&logoColor=white&style=for-the-badge)
-
 
 ### Web dev
 
