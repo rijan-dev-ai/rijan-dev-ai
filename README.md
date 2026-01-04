@@ -36,32 +36,10 @@ Always learning. 🤟🏻
 
 ## ✨ Other things
 
-- Favorite programming language: Rust. :crab:
-- Favorite technology: WebGPU.
-- Interests: breakdancing :man_dancing:, skateboarding :skateboard:.
+- Favorite programming language: Python 🐍  
+- Passionate about: Machine Learning & Artificial Intelligence 🤖  
+- Aspiring to contribute towards achieving Artificial General Intelligence (AGI) 🌌  
+- Interests: Exploring new interests 🌟
 
----
 
-<a href="https://www.linkedin.com/in/zach-nguyen">
-  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-</a>
-
-<a href="https://twitter.com/zach_duong">
-  <img height="32" align="left" alt="X" src="img/icons/x.png" />
-</a>
-
-<a href="https://paypal.me/dnguy38">
-  <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
-</a>
-
-<a href="https://www.buymeacoffee.com/cszach">
-  <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
-</a>
-
-<a href="https://liberapay.com/cszach">
-  <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
-</a>
-
-<a href="https://dribbble.com/cszach">
-  <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
-</a>
+>
