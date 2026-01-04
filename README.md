@@ -32,6 +32,12 @@ Always learning. 🤟🏻
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/NLTK-FF6600?logo=python&logoColor=white&style=for-the-badge)
+![re](https://img.shields.io/badge/re-FF6600?logo=python&logoColor=white&style=for-the-badge)
+
+### 📊 Mathematics & Statistics
+![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?logo=python&logoColor=white&style=for-the-badge)
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-306998?logo=python&logoColor=white&style=for-the-badge)
+![Calculus](https://img.shields.io/badge/Calculus-F58025?logo=python&logoColor=white&style=for-the-badge)
 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
@@ -41,7 +47,6 @@ Always learning. 🤟🏻
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-
 
 ### 🎨 Graphics & Simulation
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white&style=for-the-badge)
