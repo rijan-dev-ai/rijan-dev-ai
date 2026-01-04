@@ -27,7 +27,7 @@ Always learning. 🤟🏻
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white&style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white&style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
@@ -49,8 +49,7 @@ Always learning. 🤟🏻
 ### 🛠 Embedded Systems & Electronics
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?logo=raspberrypi&logoColor=white&style=for-the-badge)
-![PCB Design](https://img.shields.io/badge/PCB--Design-FF6F61?logo=microchip&logoColor=white&style=for-the-badge)
-- PCB design, breadboarding, and electronic components
+![Proteus](https://img.shields.io/badge/Proteus-FF6F61?logo=microchip&logoColor=white&style=for-the-badge)
 
 ---
 
